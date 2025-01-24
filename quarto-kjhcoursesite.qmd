@@ -1,6 +1,6 @@
 ---
 title: "quarto-kjhcoursesite"
-format: kjhcoursesite
+format: kjhcoursesite-html
 toc: true
 ---
 
