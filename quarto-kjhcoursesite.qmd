@@ -1,0 +1,10 @@
+---
+title: "quarto-kjhcoursesite"
+format: kjhcoursesite
+toc: true
+---
+
+## Introduction
+
+Default template for the `kjhcoursesite` custom quarto html format.
+
