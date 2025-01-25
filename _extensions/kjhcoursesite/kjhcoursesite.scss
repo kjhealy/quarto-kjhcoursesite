@@ -395,3 +395,22 @@ overflow-y: scroll;
   color: $light;
   background-color: $my-lblue;
   }
+
+// WebR styling
+.view-lines {
+  line-height: 24px;
+}
+
+.qwebr-editor {
+  // can't get editor-font-size to work; setting manually here instead
+  font-size: 14px;
+}
+
+.qwebr-output-code-area {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    background-color: $chunk-background;
+}
+
+
+
