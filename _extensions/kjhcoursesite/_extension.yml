@@ -11,19 +11,3 @@ contributes:
       theme: [kjhcoursesite.scss]
       highlight-style: catppuccin-macchiato.theme
       toc: true
-      format-resources:
-        - fonts/01_tenso-slab-light_42_ik.woff2
-        - fonts/02_tenso-slab-lightitalic_42_ik.woff2
-        - fonts/03-tenso-slab-regular_42_ik.woff2
-        - fonts/04_tenso_slab_italic_42_ik.woff2
-        - fonts/05_tenso-slab-medium_42_ik.woff2
-        - fonts/06_tenso-slab-mediumitalic_42_ik.woff2
-        - fonts/07_tenso-slab-bold_42_ik.woff2
-        - fonts/08_tenso_slab_bolditalic_42_ik.woff2
-        - fonts/09_tenso-slab-black_42_ik.woff2
-        - fonts/10_tenso-slab-blackitalic_42_ik.woff2
-        - fonts/BerkeleyMono-Bold.woff2
-        - fonts/BerkeleyMono-BoldItalic.woff2
-        - fonts/BerkeleyMono-Italic.woff2
-        - fonts/BerkeleyMono-Regular.woff2
-
